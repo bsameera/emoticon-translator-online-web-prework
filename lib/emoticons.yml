@@ -1,10 +1,10 @@
-get_emoticon:
+get_meaning:
   angel:
     - "O:)"      
     - "☜(⌒▽⌒)☞"
-angry:
-  - ">:("
-  - "ヽ(ｏ`皿′ｏ)ﾉ"
+  angry:
+    - ">:("
+    - "ヽ(ｏ`皿′ｏ)ﾉ"
 bored:
   - ":O"
   - "(ΘεΘ;)"
@@ -38,4 +38,4 @@ surprised:
 wink:
   - ";)"
   - "(^_-)"
-get_meaning:
+get_emoticon:
