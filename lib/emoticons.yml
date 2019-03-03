@@ -9,13 +9,7 @@
   "(￣ー￣)": "grinning"
   "(＾ｖ＾)": "happy"
   "(*^3^)/~☆": "kiss"
-  "sad":
-    - ":'("
-    - "(Ｔ▽Ｔ)"
-  "surprised":
-    - ":o"
-    - "o_O"
-  "wink":
-    - ";)"
-    - "(^_-)"
+  "(Ｔ▽Ｔ)": "sad"
+  "o_O": "surprised"
+  "(^_-)": "wink"
 'get_emoticon':
