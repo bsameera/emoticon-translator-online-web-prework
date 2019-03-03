@@ -19,5 +19,6 @@ end
 
 def get_english_meaning(file_path, english_emoticon)
   # code goes here
-  emoticons = YAML.load_file(file_path)
+  emoticons = load_library(file_path)
+  
 end
